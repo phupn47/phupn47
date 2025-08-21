@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Phu👋</h1>
 
-<h3>About ME</h3>
+<h2>About ME</h2>
 
 <ul>
   <li>My name is Phawadon Nuresaard, a third-year student in IoT System and Information Engineering at KMITL. I have a strong interest in coding and aim to pursue a career in Data Analytics.</li>
