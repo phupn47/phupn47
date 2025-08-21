@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Phu</h1>
+
+<p>I am a student, Bachelor of Engineering in IoT System and Information Engineering, KMITL.</p>
 
 <!--
 **phupn47/phupn47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
