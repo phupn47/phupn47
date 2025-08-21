@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Phu👋</h1>
 
-<h2>About ME</h2>
+<h2>About Me🎯</h2>
 
 <ul>
   <li>My name is Phawadon Nuresaard, a third-year student in IoT System and Information Engineering at KMITL. I have a strong interest in coding and aim to pursue a career in Data Analytics.</li>
@@ -22,4 +22,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phupn47&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
   
+</div>
+
+<h2>Explore My Projects 📁</h2>
+
+<div align="center">
+
+| Project | Description | Live Demo |
+|----------|-------------|-----------|
+| 🥚 Focuscrack | Web app that helps users stay focused on their tasks | [Focuscrack](https://focuscrack.vercel.app) |
+| 👟 TrainerNext | Web app to find the suitable trainer for you | [TrainerNext](https://project-alpha-nu-one.vercel.app/) |
+| 🌲 CEFR Monster | Mobile game that improves English skills through adventure levels | [Introductory Website](https://patdanai767.github.io/CV.html) |
+
 </div>
