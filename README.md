@@ -32,6 +32,6 @@
 |----------|-------------|-----------|
 | 🥚 Focuscrack | Web app that helps users stay focused on their tasks | [Focuscrack](https://focuscrack.vercel.app) |
 | 👟 TrainerNext | Web app to find the suitable trainer for you | [TrainerNext](https://project-alpha-nu-one.vercel.app/) |
-| 🌲 CEFR Monster | Mobile game that improves English skills through adventure levels | [Introductory Website](https://patdanai767.github.io/CV.html) |
+| 🫑 Yaek Zaab | Bell Pepper Ripeness Detection | [Yaek Zaab](https://g9tuesa.consolutechcloud.com/frontend.html) |
 
 </div>
